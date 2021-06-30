@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>http://example.com/2021/06/30/hello-world/</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-06-30</lastmod>
     
@@ -11,56 +18,49 @@
   <url>
     <loc>http://example.com/manifest.json</loc>
     
-    <lastmod>2021-06-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/images/pwaicons/README.html</loc>
-    
-    <lastmod>2021-06-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://example.com/gallery/index.html</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/03/hello-world/</loc>
+    <loc>http://example.com/link/index.html</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/images/pwaicons/README.html</loc>
+    
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
