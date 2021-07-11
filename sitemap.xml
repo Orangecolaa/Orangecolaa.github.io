@@ -2,77 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://orangecola.com/posts/a53e5350/</loc>
     
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2021-07-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://orangecola.com/posts/d95d7e09/</loc>
+    
+    <lastmod>2021-07-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/gallery/index.html</loc>
+    
+    <lastmod>2021-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/tags/index.html</loc>
+    
+    <lastmod>2021-07-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/music/index.html</loc>
+    
+    <lastmod>2021-07-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/about/index.html</loc>
+    
+    <lastmod>2021-07-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/categories/index.html</loc>
+    
+    <lastmod>2021-07-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/link/index.html</loc>
+    
+    <lastmod>2021-07-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/posts/4a17b156/</loc>
+    
+    <lastmod>2021-07-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/manifest.json</loc>
     
     <lastmod>2021-06-29</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/images/pwaicons/README.html</loc>
+    <loc>https://orangecola.com/images/pwaicons/README.html</loc>
     
     <lastmod>2021-06-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2021-06-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2020-11-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/11/03/hello-world/</loc>
-    
-    <lastmod>2020-11-03</lastmod>
     
   </url>
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2021-06-30</lastmod>
+    <loc>https://orangecola.com/</loc>
+    <lastmod>2021-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://orangecola.com/tags/%E7%88%AC%E8%99%AB-urllib/</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://orangecola.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://orangecola.com/categories/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
