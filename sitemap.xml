@@ -2,34 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.orangecola.cn/manifest.json</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/link/index.html</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/music/index.html</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/tags/index.html</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.orangecola.cn/posts/4a17b156/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -51,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://www.orangecola.cn/manifest.json</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.orangecola.cn/about/index.html</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -66,6 +45,27 @@
   
   <url>
     <loc>https://www.orangecola.cn/gallery/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/link/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/music/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/tags/index.html</loc>
     
     <lastmod>2021-07-13</lastmod>
     
