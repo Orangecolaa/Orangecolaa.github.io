@@ -2,49 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.orangecola.cn/posts/6fd05540/</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/posts/4a17b156/</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/posts/7bcbd7d7/</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.orangecola.cn/manifest.json</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/about/index.html</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/categories/index.html</loc>
-    
-    <lastmod>2021-09-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.orangecola.cn/gallery/index.html</loc>
     
     <lastmod>2021-09-22</lastmod>
     
@@ -66,6 +24,48 @@
   
   <url>
     <loc>https://www.orangecola.cn/tags/index.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/posts/6fd05540/</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/posts/e7d5b071/</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/posts/7bcbd7d7/</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/about/index.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/categories/index.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/gallery/index.html</loc>
     
     <lastmod>2021-09-22</lastmod>
     
@@ -137,6 +137,13 @@
   </url>
   
   <url>
+    <loc>https://www.orangecola.cn/tags/Hexo/</loc>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.orangecola.cn/tags/Github/</loc>
     <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
@@ -147,6 +154,13 @@
   
   <url>
     <loc>https://www.orangecola.cn/categories/Django/</loc>
+    <lastmod>2021-09-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.orangecola.cn/categories/Hexo%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
